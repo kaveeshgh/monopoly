@@ -1,0 +1,20 @@
+1;                      ;    Bank pays you     ;   dividend of $50.   ;                      ;50;41
+1;      Advance to      ;  St. Charles Place.  ;    If you pass GO    ;     collect $200.    ;0;11
+1;                      ;    Advance to GO.    ;    (Collect $200)    ;                      ;200;0
+1;                      ;    Your building     ;    loan matures.     ;     Collect $150     ;150;41
+1;                      ;   Get out of jail.   ;                      ;                      ;0;41
+1;                      ;      Go to jail.     ;    Do not pass GO,   ; do not collect $200. ;0;10
+1;                      ;      Advance to      ;      Boardwalk.      ;                      ;0;40
+1;                      ;  Speeding fine $15.  ;                      ;                      ;-15;41
+1;      Advance to      ;   Illinois Avenue.   ;    If you pass GO    ;     collect $200.    ;0;24
+1;    Take a trip to    ;   Reading Railroad.  ;    If you pass GO    ;     collect $200.    ;0;5
+2;                      ;  Income tax refund.  ;     Collect $20.     ;                      ;20;41
+2;                      ;Life insurance matures;     Collect $100     ;                      ;100;41
+2;                      ;     You inherit      ;        $100.         ;                      ;100;41
+2;                      ;   Get out of jail.   ;                      ;                      ;0;41
+2;                      ;  From sale of stock  ;     you get $50.     ;                      ;50;41
+2;                      ; Holiday fund matures ;     Recieve $100.    ;                      ;100;41
+2;     You have won     ;   second prize in    ;  a beauty contest.   ;     Collect $10.     ;10;41
+2;                      ;    Doctor's fees.    ;       Pay $50.       ;                      ;-50;41
+2;                      ;   Pay hospital fees  ;       of $100.       ;                      ;-100;41
+2;                      ;      Go to jail.     ;    Do not pass GO,   ; do not collect $200. ;0;10

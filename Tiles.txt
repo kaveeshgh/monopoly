@@ -1,0 +1,40 @@
+Square;  GO  ;200
+Property;2;10;30;90;160;250;Mediterranean Avenue;60;30;9
+CardTile; Chest
+Property;4;20;60;180;320;450;Baltic Avenue;60;30;9
+Square; TAX  ;-200
+Railroad;Reading Railroad
+Property;6;30;90;270;400;550;Oriental Avenue;100;50;4
+CardTile;Chance
+Property;6;30;90;270;400;550;Vermont Avenue;100;50;4
+Property;8;40;100;300;450;600;Connecticut Avenue;120;60;4
+Square; Jail ;0
+Property;10;50;150;450;625;750;St. Charles Place;140;70;6
+Utility;ELCTRC
+Property;10;50;150;450;625;750;States Avenue;140;70;6
+Property;12;60;180;500;700;900;Virginia Avenue;160;80;6
+Railroad;Pennsylvania Railroad
+Property;14;70;200;550;750;950;St. James Place;180;90;8
+CardTile;Chest 
+Property;14;70;200;550;750;950;Tenessee Avenue;180;90;8
+Property;16;80;220;600;800;1000;New York Avenue;200;100;8
+Square; FREE ;0
+Property;18;90;250;700;875;1050;Kentucky Avenue;220;110;1
+CardTile;Chance
+Property;18;90;250;700;875;1050;Indiana Avenue;220;110;1
+Property;20;100;300;750;925;1100;Illinois Avenue;240;120;1
+Railroad;B&O Railroad
+Property;22;110;330;800;975;1150;Atlantic Avenue;260;130;2
+Property;22;110;330;800;975;1150;Ventnor Avenue;260;130;2
+Utility;WATER 
+Property;24;120;360;850;1025;1200;Marvin Gardens;280;140;2
+Square;G2Jail;0
+Property;26;130;390;900;1100;1275;Pacific Avenue;300;150;3
+Property;26;130;390;900;1100;1275;North Carolina Avenue;300;150;3
+CardTile;Chest 
+Property;28;150;450;1000;1200;1400;Pensylvannia Avenue;320;160;3
+Railroad;Short Line
+CardTile;Chance
+Property;35;175;500;1100;1300;1500;Park Place;360;175;5
+Square; TAX  ;-100
+Property;50;200;600;1400;1700;2000;Boardwalk;400;200;5
